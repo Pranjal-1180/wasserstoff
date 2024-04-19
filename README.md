@@ -4,10 +4,9 @@
 
  3. Steps to run/build the project: Open your terminal or command prompt, and navigate to the root directory of your project. Run npm run dev cmd. The application then runs.
 
- 4. Video link: https://github.com/Pranjal-1180/wasserstoff/assets/82760664/9dc18350-e90f-4f80-bb70-a3765803bb9b
 
- 5. Approach: I went through the Figma Design provided. I then figured out the components needed to be created. And started developing the app using Next.js and Tailwind for 
-           styling. Installed the required framework (Next.js) and dependencies. Created the project structure.  
+
+ 
 
 ![Screenshot (1536)](https://github.com/Pranjal-1180/wasserstoff/assets/82760664/4600b5dd-c6f9-4fa5-a15b-28f29e52b98e)
 ![Screenshot (1537)](https://github.com/Pranjal-1180/wasserstoff/assets/82760664/e0d23006-4ad2-4e78-935b-e56e36056e9b)
