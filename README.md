@@ -1,8 +1,3 @@
- 1. Title of the project: Wasserstoff Task assignment
-
- 2. Technology stack/libraries used: Next.js, Tailwind
-
- 3. Steps to run/build the project: Open your terminal or command prompt, and navigate to the root directory of your project. Run npm run dev cmd. The application then runs.
 
 
 
